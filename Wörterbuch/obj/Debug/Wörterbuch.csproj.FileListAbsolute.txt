@@ -1,0 +1,10 @@
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.exe.config
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.exe
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.pdb
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.Properties.Resources.resources
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.Woerterbuch.resources
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csproj.GenerateResource.cache
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.exe
+C:\Users\DCV\source\repos\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.pdb
